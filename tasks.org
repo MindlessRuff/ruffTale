@@ -1,0 +1,16 @@
+#+TITLE: tasks
+
+* Ruff Tale
+** [#A] Game Art [0/2] [0%]
+- [-] Main Character base sprite
+- [ ] Grass Tile base sprite
+** [#B] Programming [0/3] [0%]
+- [-] Setup project with LTS Unity version
+- [ ] Paint main scene with base tiles
+- [ ] Setup basic character movement script
+** [#C] Audio [0/2] [0%]
+- [-] Decide on an Audio program if necessary
+- [ ] Figure out a music style
+** [#B] Story
+*** Introduction
+*** Level 1
