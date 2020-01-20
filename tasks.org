@@ -31,3 +31,9 @@
 - [ ] Introduction of the Idea
 - [ ] Outline a Plan
 ** Roadmap
+** Stream
+- [ ] obs ndi
+  - [ ] gigabit required
+  - [ ] stream elements obs plugin
+- [ ] el gato capture
+- [ ] Channel Art
